@@ -11,7 +11,7 @@ The AI Study Buddy chatbot answers simple questions about:
 - AI basics
 - Responsible AI use
 
-## Concepts Used
+## Concepts Used 
 
 - Python variables
 - Functions

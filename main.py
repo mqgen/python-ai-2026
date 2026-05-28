@@ -1,5 +1,5 @@
 """
-AI Study Buddy Demo Project May 2026 Project
+AI Study Buddy Demo Project May 2026 Project Demo
 
 Course: Git + Python + AI
 Audience: Middle and High School Students
